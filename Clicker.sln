@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "view", "view\view.csproj", "{8119D19E-62B1-4D78-8DBE-4A0D440B554B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logic", "logic\logic.csproj", "{F509B9AE-CD97-4CAD-9BDD-E8DB9300E862}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8119D19E-62B1-4D78-8DBE-4A0D440B554B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8119D19E-62B1-4D78-8DBE-4A0D440B554B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8119D19E-62B1-4D78-8DBE-4A0D440B554B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8119D19E-62B1-4D78-8DBE-4A0D440B554B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F509B9AE-CD97-4CAD-9BDD-E8DB9300E862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F509B9AE-CD97-4CAD-9BDD-E8DB9300E862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F509B9AE-CD97-4CAD-9BDD-E8DB9300E862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F509B9AE-CD97-4CAD-9BDD-E8DB9300E862}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
